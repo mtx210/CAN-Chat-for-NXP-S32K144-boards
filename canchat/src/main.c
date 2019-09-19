@@ -62,6 +62,9 @@ void LPIT0_init (void) {
 }
 
 void mainContent(void){
+
+	//TODO put msg input line at the top of terminal
+
 	char buffor[8];											//creating an empty buffor array
 	int j;													//
 	for(j=0 ; j<8 ; j++){									//
